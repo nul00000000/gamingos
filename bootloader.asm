@@ -29,4 +29,4 @@ print:
 1: ret
 
 hello:
-    .asciz "fucking hell at&t\n"
+    .asciz "*hecking heck at&t\n" ;don't mind what was previously here mr. college admissions sir or madam or nonbinariam
